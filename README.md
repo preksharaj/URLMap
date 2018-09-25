@@ -13,6 +13,34 @@ Run Instructions
 -javac URLMap.java<br />
 -java URLMap.java<br />
 
+**Input**
+input.txt<br />
+
+1407564301|www.nba.com<br />
+1407478021|www.facebook.com<br />
+1407478022|www.facebook.com<br />
+1407481200|news.ycombinator.com<br />
+1407478028|www.google.com<br />
+1407564301|sports.yahoo.com<br />
+1407564300|www.cnn.com<br />
+1407564300|www.nba.com<br />
+1407564300|www.nba.com<br />
+1407564301|sports.yahoo.com<br />
+1407478022|www.google.com<br />
+1407648022|www.twitter.com<br />
+
+**Output**
+08/08/2014 GMT<br />
+www.facebook.com 2<br />
+www.google.com 2<br />
+news.ycombinator.com 1<br />
+08/09/2014 GMT<br />
+www.nba.com 3<br />
+sports.yahoo.com 2<br />
+www.cnn.com 1<br />
+08/10/2014 GMT<br />
+www.twitter.com 1<br />
+
 Time Complexity
 -----------
 O(n) where n = number of input lines in the input file
