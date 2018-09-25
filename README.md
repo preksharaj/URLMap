@@ -13,7 +13,7 @@ Run Instructions
 -javac URLMap.java<br />
 -java URLMap.java<br />
 
-**Input**
+**Input**<br />
 input.txt<br />
 
 1407564301|www.nba.com<br />
@@ -29,7 +29,7 @@ input.txt<br />
 1407478022|www.google.com<br />
 1407648022|www.twitter.com<br />
 
-**Output**
+**Output**<br />
 08/08/2014 GMT<br />
 www.facebook.com 2<br />
 www.google.com 2<br />
