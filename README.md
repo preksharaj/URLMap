@@ -5,13 +5,13 @@ You’re given an input file. Each line consists of a timestamp (unix epoch in s
 
 Run Instructions
 -----------
-Using IDE
--Import the project in any IDE(eg Eclipse)
--Run the project with Run as-> Java Application.
+Using IDE <br />
+-Import the project in any IDE(eg Eclipse)<br />
+-Run the project with Run as-> Java Application.<br />
 
-Command Prompt
--javac URLMap.java
--java URLMap.java
+Command Prompt<br />
+-javac URLMap.java<br />
+-java URLMap.java<br />
 
 Time Complexity
 -----------
